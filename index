@@ -34,17 +34,17 @@
             }
         </style>
         <body>
-            <p>Dr. Eleanor Gaye</p>
+            <p><strong>Dr. Eleanor Gaye</strong></p>
             <p>Awesome Science faculty</p>
             <p>University of Awesome</p>
             <p>Bobtown, CA 99999,</p>
             <p>USA</p>
-            <p>Tel:123-456-7890</p>
-            <p>email: no_reply@gmail.com</p>
+            <p>Tel:<strong>123-456-7890</strong></p>
+            <p>email:<strong>no_reply@gmail.com</strong></p>
             <p></p>
             <p>20 January 2016</p>
             <p></p>
-            <P>Miss Eileen Dover</P>
+            <P><strong>Miss Eileen Dover</strong></P>
             <p>4321 Cliff Top Edge</p>
             <p>Dover, CT9 XXX</p>
             <p>UK</p>
